@@ -36,10 +36,7 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
+- Notebook: https://github.com/AbbyWilson/Consumer-Purchase-Trends/blob/main/Capstone%20Analysis.ipynb 
 
 ##### Contact and Further Information
 
