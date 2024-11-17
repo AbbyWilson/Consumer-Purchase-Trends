@@ -1,5 +1,7 @@
 ### Consumer Purchase Behavior Trends
 
+(Note this is still WIP as this is just the inital pass as requested in Capstone Project 20.1 Assignment - will fully complete in a later module)
+
 **Author**
 Abby Wilson 
 
