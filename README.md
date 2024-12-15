@@ -21,7 +21,7 @@ I work with a lot of small business owners of e-Commerce sites. Understanding th
 Given that a lot of these small business owners do not track a lot of their own data, starting with a public dataset helps to get initial insights and prove out the value of this type of strategy. Once that is proven, they will be more likely to invest in data collection and analysis to further refine these models and continue iterating on the process, as described in 'Next Steps' in the section below. 
 
 #### Research Question
-What is the best regression and classification model to predict how much consumers will end up spending and on what, and what does this model tell us about the features that are most relevant in dictating the purchase amount and category. 
+What is the best regression and classification model to predict how much consumers will end up spending and on what, and what do these models tell us about the features that are most relevant in dictating the purchase amount and category. 
 
 #### Data Sources
 I will use the Consumer Behavior and Shopping Habits Dataset[https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset]from Kaggle.
