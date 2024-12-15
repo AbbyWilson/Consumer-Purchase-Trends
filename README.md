@@ -24,7 +24,7 @@ Given that a lot of these small business owners do not track a lot of their own 
 What is the best regression and classification model to predict how much consumers will end up spending and on what, and what do these models tell us about the features that are most relevant in dictating the purchase amount and category. 
 
 #### Data Sources
-I will use the Consumer Behavior and Shopping Habits Dataset[https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset]from Kaggle.
+I will use the Consumer Behavior and Shopping Habits Dataset from Kaggle: https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
 
 This dataset contains various information about consumers such as demographics, purchase history, preferences, and frequency of purchases.
 
